@@ -4,6 +4,9 @@ public class Class01 {
 
         System.out.println("1.çalışmam");
         System.out.println("v3");
+
         System.out.println("bugün güneşli");
+        System.out.println("bugün yagışlı");
+
     }
 }
